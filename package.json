@@ -1,0 +1,22 @@
+{
+  "name": "seo-4",
+  "version": "1.0.0",
+  "description": "Homework 4 for SEO course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeegor/seo-4.git"
+  },
+  "author": "Jegors Batovs <yegor.batov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeegor/seo-4/issues"
+  },
+  "homepage": "https://github.com/yeegor/seo-4#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
